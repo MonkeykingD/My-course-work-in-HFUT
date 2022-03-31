@@ -1,3 +1,1 @@
-It`s first time to use git
-It`s positive for me because I`m trying more meaningful things
-MonkeyKing
+这里记录了本人19级合工大计算机科学与技术的课程相关的资料（constantly update）
